@@ -1,0 +1,10 @@
+{
+  "appId": "com.odysseus.dashboard",
+  "appName": "Odysseus Dashboard",
+  "webDir": "www",
+  "server": {
+    "url": "http://100.95.214.69:7000",
+    "cleartext": true,
+    "androidScheme": "http"
+  }
+}
